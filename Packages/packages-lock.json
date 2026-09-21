@@ -323,7 +323,7 @@
       "url": "https://packages.unity.com"
     },
     "com.vm233.unity-automation": {
-      "version": "https://github.com/VM233/VMUnityAutomation.git#b018e5f814e3d8d4688eeec2aeb4954a295dadd2",
+      "version": "https://github.com/VM233/VMUnityAutomation.git#bc362aa1bfc1dbaf17e7cc16dcfb6971efeef2ac",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -331,7 +331,7 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2",
         "com.unity.ugui": "1.0.0"
       },
-      "hash": "b018e5f814e3d8d4688eeec2aeb4954a295dadd2"
+      "hash": "bc362aa1bfc1dbaf17e7cc16dcfb6971efeef2ac"
     },
     "com.vm233.unity-pipeline": {
       "version": "https://github.com/VM233/VMUnityPipeline.git#412202a692a4ba036a9a71855b384588b76e4a35",
