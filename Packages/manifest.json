@@ -13,6 +13,7 @@
     "com.unity.ide.visualstudio": "2.0.26",
     "com.unity.inputsystem": "1.20.0",
     "com.unity.learn.iet-framework": "6.0.7",
+    "com.unity.pipeline": "0.7.0-exp.1",
     "com.unity.render-pipelines.universal": "17.6.0",
     "com.unity.test-framework": "1.8.0",
     "com.unity.timeline": "6.6.0",
@@ -53,6 +54,8 @@
     "com.unity.modules.vehicles": "1.0.0",
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.vm233.unity-automation": "https://github.com/VM233/VMUnityAutomation.git#f9dd37ab49f94d5d7330d060b5a956ba9c10a3df",
+    "com.vm233.unity-pipeline": "https://github.com/VM233/VMUnityPipeline.git#412202a692a4ba036a9a71855b384588b76e4a35"
   }
 }

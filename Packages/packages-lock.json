@@ -184,9 +184,30 @@
     },
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.6",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.pipeline": {
+      "version": "0.7.0-exp.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.33",
+        "com.unity.nuget.mono-cecil": "1.11.6",
+        "com.unity.modules.uielements": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.screencapture": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.profiling.core": {
@@ -300,6 +321,29 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.vm233.unity-automation": {
+      "version": "https://github.com/VM233/VMUnityAutomation.git#f9dd37ab49f94d5d7330d060b5a956ba9c10a3df",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.2d.sprite": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.ugui": "1.0.0"
+      },
+      "hash": "f9dd37ab49f94d5d7330d060b5a956ba9c10a3df"
+    },
+    "com.vm233.unity-pipeline": {
+      "version": "https://github.com/VM233/VMUnityPipeline.git#412202a692a4ba036a9a71855b384588b76e4a35",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.vm233.unity-automation": "0.6.13",
+        "com.unity.pipeline": "0.5.0-exp.1",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.ugui": "1.0.0"
+      },
+      "hash": "412202a692a4ba036a9a71855b384588b76e4a35"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
