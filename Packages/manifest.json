@@ -55,7 +55,7 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "com.vm233.unity-automation": "https://github.com/VM233/VMUnityAutomation.git#f9dd37ab49f94d5d7330d060b5a956ba9c10a3df",
+    "com.vm233.unity-automation": "https://github.com/VM233/VMUnityAutomation.git#b018e5f814e3d8d4688eeec2aeb4954a295dadd2",
     "com.vm233.unity-pipeline": "https://github.com/VM233/VMUnityPipeline.git#412202a692a4ba036a9a71855b384588b76e4a35"
   }
 }
